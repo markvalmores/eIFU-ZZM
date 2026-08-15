@@ -1,0 +1,6 @@
+{
+  "name": "Zero Zone Mark eIFU Portal",
+  "description": "Electronic Instructions for Use (eIFU) regulatory portal and document lookup system for Zero Zone Mark (SRN: 9712190199).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
